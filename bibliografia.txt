@@ -35,8 +35,10 @@ Virtanen, P., Gommers, R., Oliphant, T.E. et al. "SciPy 1.0: fundamental algorit
 Astropy Collaboration, “Astropy: A community Python package for astronomy”, Astronomy and Astrophysics, vol. 558, 2013. doi:10.1051/0004-6361/201322068. 
 (https://ui.adsabs.harvard.edu/abs/2013A%26A...558A..33A/abstract)
 
-Astropy Collaboration, “The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package”, The Astronomical Journal, vol. 156, no. 3, 2018. doi:10.3847/1538-3881/aabc4f. (https://ui.adsabs.harvard.edu/abs/2018AJ....156..123A/abstract)
+Astropy Collaboration, “The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package”, The Astronomical Journal, vol. 156, no. 3, 2018. doi:10.3847/1538-3881/aabc4f. 
+(https://ui.adsabs.harvard.edu/abs/2018AJ....156..123A/abstract)
 
-Astropy Collaboration, “The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package”, The Astrophysical Journal, vol. 935, no. 2, 2022. doi:10.3847/1538-4357/ac7c74. (https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A/abstract)
+Astropy Collaboration, “The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package”, The Astrophysical Journal, vol. 935, no. 2, 2022. doi:10.3847/1538-4357/ac7c74. 
+(https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A/abstract)
 
 Como se puede notar, me gusta ocupar astropy :) 

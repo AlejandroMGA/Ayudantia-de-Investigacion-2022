@@ -1,0 +1,42 @@
+En este documento se muestra la bibliografía usada en la investigación. Al lado de cada citación se encuentra en paréntesis un link que los llevará a una página donde pueden descargar las publicaciones (para los que les da pereza buscar las publicaciones ;)).
+
+Fields, B. D., Athanassiadou, T., and Johnson, S. R., “Supernova Collisions with the Heliosphere”, The Astrophysical Journal, vol. 678, no. 1, pp. 549–562, 2008. doi:10.1086/523622 
+(https://ui.adsabs.harvard.edu/abs/2008ApJ...678..549F/abstract)
+
+Johnstone, C. P., Güdel, M., Lüftinger, T., Toth, G., and Brott, I., “Stellar winds on the main-sequence. I. Wind model”, Astronomy and Astrophysics, vol. 577, 2015. doi:10.1051/0004-6361/201425300. 
+(https://ui.adsabs.harvard.edu/abs/2015A%26A...577A..27J/abstract)
+
+Johnstone, C. P., Güdel, M., Brott, I., and Lüftinger, T., “Stellar winds on the main-sequence. II. The evolution of rotation and winds”, Astronomy and Astrophysics, vol. 577, 2015. doi:10.1051/0004-6361/201425301. 
+(https://ui.adsabs.harvard.edu/abs/2015A%26A...577A..28J/abstract)
+
+Hurley, J. R., Pols, O. R., and Tout, C. A., “Comprehensive analytic formulae for stellar evolution as a function of mass and metallicity”, Monthly Notices of the Royal Astronomical Society, vol. 315, no. 3, pp. 543–569, 2000. doi:10.1046/j.1365-8711.2000.03426.x. 
+(https://ui.adsabs.harvard.edu/abs/2000MNRAS.315..543H/abstract)
+
+Tout, C. A., Pols, O. R., Eggleton, P. P., and Han, Z., “Zero-age main-seqence radii and luminosities as analytic functions of mass and metallicity”, Monthly Notices of the Royal Astronomical Society, vol. 281, no. 1, pp. 257–262, 1996. doi:10.1093/mnras/281.1.257. 
+(https://ui.adsabs.harvard.edu/abs/1996MNRAS.281..257T/abstract)
+
+Zendejas, J., Segura, A., and Raga, A. C., “Atmospheric mass loss by stellar wind from planets around main sequence M stars”, Icarus, vol. 210, no. 2, pp. 539–544, 2010. doi:10.1016/j.icarus.2010.07.013. 
+(https://ui.adsabs.harvard.edu/abs/2010Icar..210..539Z/abstract)
+
+Kopparapu, R. K., “Habitable Zones around Main-sequence Stars: New Estimates”, The Astrophysical Journal, vol. 765, no. 2, 2013. doi:10.1088/0004-637X/765/2/131. 
+(https://ui.adsabs.harvard.edu/abs/2013ApJ...765..131K/abstract)
+
+También citaré los paquetes de python utilizados:
+
+Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). DOI: 10.1038/s41586-020-2649-2. 
+(https://www.nature.com/articles/s41586-020-2649-2)
+
+J. D. Hunter, "Matplotlib: A 2D Graphics Environment," in Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, May-June 2007, doi: 10.1109/MCSE.2007.55. 
+(https://ieeexplore.ieee.org/document/4160265)
+
+Virtanen, P., Gommers, R., Oliphant, T.E. et al. "SciPy 1.0: fundamental algorithms for scientific computing in Python". Nat Methods 17, 261–272 (2020). https://doi.org/10.1038/s41592-019-0686-2 
+(https://www.nature.com/articles/s41592-019-0686-2)
+
+Astropy Collaboration, “Astropy: A community Python package for astronomy”, Astronomy and Astrophysics, vol. 558, 2013. doi:10.1051/0004-6361/201322068. 
+(https://ui.adsabs.harvard.edu/abs/2013A%26A...558A..33A/abstract)
+
+Astropy Collaboration, “The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package”, The Astronomical Journal, vol. 156, no. 3, 2018. doi:10.3847/1538-3881/aabc4f. (https://ui.adsabs.harvard.edu/abs/2018AJ....156..123A/abstract)
+
+Astropy Collaboration, “The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package”, The Astrophysical Journal, vol. 935, no. 2, 2022. doi:10.3847/1538-4357/ac7c74. (https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A/abstract)
+
+Como se puede notar, me gusta ocupar astropy :) 

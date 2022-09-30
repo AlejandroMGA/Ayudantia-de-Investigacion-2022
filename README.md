@@ -1,4 +1,4 @@
-# Ayudantia-de-Investigacion-2021
+# Ayudantia-de-Investigacion-2022
 En este repositorio se encuentran todos los archivos complementarios del póster de la Ayudantía de Investigación "Efectos de supernovas en sistemas planetarios"
 Cualquier duda o problema no duden en contactarme a alejandro.guzman.a@mail.pucv.cl o al correo asociado a esta cuenta.
 
